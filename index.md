@@ -1,9 +1,13 @@
 
-# Carlos Alvarez's Portfolio
+# Hello World
 
-I am a mechanical engineering major with a computer science minor at CSUF. I am set to graduate in spring 2028.
+This is my home page! My name is Carlos Alvarez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is mechanical engineering with a computer science minor.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My GitHub page is http://github.com/calvarez50
+
+### CPSC 120
 
 * Lab 6, part 2
 
