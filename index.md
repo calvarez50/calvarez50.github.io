@@ -5,7 +5,7 @@ This is my home page! My name is Carlos Alvarez and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is [](http://github.com/calvarez50)
+My GitHub page is [http://github.com/calvarez50](http://github.com/calvarez50)
 
 ### CPSC 120
 
